@@ -6,7 +6,7 @@ Este projeto foi criado a partir do <a href="https://github.com/facebookincubato
 
 <img src="http://157.230.177.222/reactMaterialUiCrud.jpg" align="center">
 
-<h2>>Instalação:</h2>
+<h2>Instalação:</h2>
 <p>cd /reactMaterialUICrud</p>
 <p>npm install</p>
 <p>npm start</p>
